@@ -9,6 +9,9 @@
     <modules>
         <module>rabbitmq-provider</module>
         <module>rabbitmq-consumer</module>
+        <module>rabbitmq-collback</module>
+        <module>rabbitmq-collback/consumer</module>
+        <module>rabbitmq-collback/provider</module>
     </modules>
     <name>rabbitmq_springboot_csdn</name>
     <description>rabbitmq_springboot_csdn</description>

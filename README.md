@@ -13,3 +13,9 @@ rabbitmq_springboot_csdn/
 ├── rabbitmq-consumer   // 消费者
 └── rabbitmq-provider   // 生产者
 ```
+
+
+#
+
+关注「Xiang想」公众号
+![](doc/pic/weixin.png)
