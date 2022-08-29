@@ -1,0 +1,13 @@
+server:
+  port: 8091
+
+spring:
+  application:
+    name: rabbitmq_provider
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+    # 虚拟 Host，可以不设置，不设置默认使用/
+    virtual-host: XiangHost
