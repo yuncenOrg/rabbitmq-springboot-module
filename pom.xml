@@ -12,6 +12,8 @@
         <module>rabbitmq-collback</module>
         <module>rabbitmq-collback/consumer</module>
         <module>rabbitmq-collback/provider</module>
+        <module>rabbitmq-ttl</module>
+        <module>rabbitmq-xdl</module>
     </modules>
     <name>rabbitmq_springboot_csdn</name>
     <description>rabbitmq_springboot_csdn</description>
