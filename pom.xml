@@ -14,6 +14,12 @@
         <module>rabbitmq-collback/provider</module>
         <module>rabbitmq-ttl</module>
         <module>rabbitmq-xdl</module>
+        <module>rabbitmq-delay</module>
+        <module>rabbitmq-delay/delay-consumer</module>
+        <module>rabbitmq-delay/delay-provider</module>
+        <module>rabbitmq-delay-plugins</module>
+        <module>rabbitmq-delay-plugins/delay-plugins-consumer</module>
+        <module>rabbitmq-delay-plugins/delay-plugins-provider</module>
     </modules>
     <name>rabbitmq_springboot_csdn</name>
     <description>rabbitmq_springboot_csdn</description>

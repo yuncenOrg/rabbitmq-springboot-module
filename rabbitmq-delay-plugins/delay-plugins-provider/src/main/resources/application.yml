@@ -1,0 +1,13 @@
+server:
+  port: 8210
+
+spring:
+  application:
+    name: delay-provider
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: delayPlus
+    password: delayPlus
+    # 虚拟 Host，可以不设置，不设置默认使用/
+    virtual-host: DelayPlusHost
